@@ -43,6 +43,7 @@ main {
 }
 
 .product-card {
+    margin: 0 2.5rem;
     border-radius: 5%;
     background-color: var(--white);
 }
@@ -128,5 +129,7 @@ img {
     img {
         content: url(./images/image-product-mobile.jpg);
     }
+
+
 }
 
